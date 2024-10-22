@@ -1,0 +1,9 @@
+.achievement {
+  width: 80%;
+  border-radius: 20px;
+  box-shadow: 0 5px 16px black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 200px;
+}

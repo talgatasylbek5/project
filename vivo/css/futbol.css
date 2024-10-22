@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+}
+
+
+.gou{
+    color: aliceblue;
+    background-color: black;
+    image{
+        width: 200px;
+        
+    }
+}
+
+
+
+
+header img{
+    width: 350px;
+}
+.tt{
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.achievement {
+    width: 80%;
+    border-radius: 20px;
+    box-shadow: 0 5px 16px black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+}
+
+.cups {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.cup {
+    height: 80%;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.team-photo {
+    width: 15%;
+    height: 100%;
+    object-fit: cover;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.achievement h1 {
+    font-size: 150px;
+    background: linear-gradient(8deg, #3e31fa 19.1%, #8760F6 94.27%);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.vid{
+    position: absolute;
+    z-index: 1;
+    left: 750px;
+    bottom: 50px;
+}
+
+.butsy1{
+    background-color:;
+}
